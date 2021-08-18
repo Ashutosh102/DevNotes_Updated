@@ -7,6 +7,7 @@ Updated version of DevNotes for phones and other devices
 - Easy to use
 - No need to sign in ,coz data gets saved per IP address.....just visit it anytime...previous notes will be there
 - Easy to make notes with Headlines
+- Easy and responsive to use in Phone or othr devices
 ## Samples
 ![Screenshot (529)](https://user-images.githubusercontent.com/75971776/129889959-f27572eb-ba98-4c7b-afe0-ceccb5700e25.png)
 ![Screenshot (530)](https://user-images.githubusercontent.com/75971776/129889966-dee74aea-d5de-406f-841b-d307a6c5551b.png)
